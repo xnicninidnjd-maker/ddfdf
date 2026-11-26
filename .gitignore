@@ -1,0 +1,8 @@
+modeli/
+dvizhok/
+pamyat.json
+build/
+dist/
+*.spec
+MoyaII.exe
+__pycache__/
